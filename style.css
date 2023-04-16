@@ -240,8 +240,8 @@ body{
         color: rgb(230, 44, 31);
     }
     .btc{
-        border: 2px solid rgb(13, 126, 232);
-        border-radius: 5px;
+        display: none;
+
         
         /* margin: 0; */
 
